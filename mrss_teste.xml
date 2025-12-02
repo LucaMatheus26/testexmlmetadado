@@ -3,13 +3,14 @@
     <dfpvideo:version>2</dfpvideo:version>
     
     <item>
-      <title>Video de Teste - Correção Macros</title>
+      <dfpvideo:lastModifiedDate>2025-12-02T08:34:07-0500</dfpvideo:lastModifiedDate>
+      <title>Video de Teste - Update</title>
       <media:content url="http://seusite.com/video-teste.mp4" duration="15"/>
       <dfpvideo:contentID>lucamsilvatestemrss</dfpvideo:contentID>
-      <dfpvideo:keyvalues key="category" value="Teste-Ajuste"/>
-      <dfpvideo:keyvalues key="program" value="Teste-RJ1"/>
-      <dfpvideo:keyvalues key="kind" value="episode"/>
-      <dfpvideo:keyvalues key="keywords" value="teste,correcao,macros"/>
+      <dfpvideo:keyvalues key="category" value="Teste-Ajuste" type="string"/>
+      <dfpvideo:keyvalues key="program" value="Teste-RJ1" type="string"/>
+      <dfpvideo:keyvalues key="kind" value="episode" type="string"/>
+      <dfpvideo:keyvalues key="keywords" value="teste,correcao,macros" type="string"/>
     </item>
     
   </channel>

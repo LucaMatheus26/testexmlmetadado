@@ -5,7 +5,7 @@
     <item>
       <title>Video de Teste - Correção Macros</title>
       <media:content url="http://seusite.com/video-teste.mp4" duration="15"/>
-      <dfpvideo:contentID>99990001</dfpvideo:contentID>
+      <dfpvideo:contentID>lucamsilvatestemrss</dfpvideo:contentID>
       <dfpvideo:keyvalues key="category" value="Teste-Ajuste"/>
       <dfpvideo:keyvalues key="program" value="Teste-RJ1"/>
       <dfpvideo:keyvalues key="kind" value="episode"/>

@@ -7,10 +7,7 @@
       <title>Video de Teste - Update</title>
       <media:content url="http://seusite.com/video-teste.mp4" duration="15"/>
       <dfpvideo:contentID>lucamsilvatestemrss</dfpvideo:contentID>
-      <dfpvideo:keyvalues key="category" value="Teste-Ajuste" type="string"/>
-      <dfpvideo:keyvalues key="program" value="Teste-RJ1" type="string"/>
       <dfpvideo:keyvalues key="kind" value="episode" type="string"/>
-      <dfpvideo:keyvalues key="keywords" value="teste,correcao,macros" type="string"/>
     </item>
     
   </channel>

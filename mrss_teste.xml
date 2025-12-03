@@ -3,11 +3,12 @@
     <dfpvideo:version>2</dfpvideo:version>
     
     <item>
-      <dfpvideo:lastModifiedDate>2025-12-02T09:15:07-0500</dfpvideo:lastModifiedDate>
+      <dfpvideo:lastModifiedDate>2025-12-03T06:09:07-0500</dfpvideo:lastModifiedDate>
       <title>Video de Teste - Update</title>
       <media:content url="http://seusite.com/video-teste.mp4" duration="15"/>
       <dfpvideo:contentID>lucamsilvatestemrss</dfpvideo:contentID>
-      <dfpvideo:keyvalues key="kind" value="episode" type="string"/>
+      <dfpvideo:keyvalues key="kind" value="picles" type="string"/>
+      <dfpvideo:keyvalues key="program" value="batata" type="string"/>
     </item>
     
   </channel>
